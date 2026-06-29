@@ -41,7 +41,3 @@ Aplikasi ini menggunakan konsep **Mock-up Database Logic**. Meskipun tampilan me
 2.  Buka proyek menggunakan **Android Studio Ladybug** atau versi terbaru.
 3.  Pastikan SDK Android sudah terinstal.
 4.  Klik **Run 'app'** untuk mencoba di Emulator atau Perangkat Fisik.
-
----
-
-**Developed for learning purposes - UPH 24SI3**
